@@ -1,3 +1,3 @@
 # NASASpaceAppsProject
-Group Project For Our First Hackathon
+Group Project For Our First Hackathon \n
 This project simulates the physics and momentum of stars in the solar system.
